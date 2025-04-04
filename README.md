@@ -1,4 +1,4 @@
-# Text Reverser - Reverse the Entered Text
+# Text Reverser
 
 This simple Python script reverses any text entered by the user.
 
@@ -7,13 +7,6 @@ This simple Python script reverses any text entered by the user.
 - Reverses any given string.
 - Easy-to-use command-line interface.
 - Allows for multiple inputs until the user decides to exit.
-
-## How to Use
-
-1. Clone or download the repository.
-2. Run the script:
-   ```bash
-   python text_reverser.py
 
 ## Example
 
